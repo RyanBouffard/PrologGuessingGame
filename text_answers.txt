@@ -1,0 +1,3 @@
+1.) Prolog seems great for logical programming and even limited database programming due to the attribute and relationship system present in this language.
+
+2.) With Java, it'd be a lot harder for the logical programming part, would take a lot of branching decision trees in order to end up with fully distinguishable elements. As for the database programming, Java has libraries that allow it to connect to an SQL database and perform queries and add features with SQL code. The language itself, without a SQL database to connect to is not able to easily create a database due to the lack of any readily usable relationship functionality.

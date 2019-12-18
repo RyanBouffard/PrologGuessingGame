@@ -1,0 +1,48 @@
+FINAL PATHS:
+
+type(ammonite_fossil,animal).			path: animal, dead, water.
+type(pterodactyl,animal).			path: animal, dead, land, y.
+type(dinosaur, animal).				path: animal, dead, land, n.
+type(lion,animal).				path: animal, alive, land, y,n.
+type(rabbit, animal).				path: animal, alive, land, y, y, n, n.
+type(dog, animal).				path: animal, alive, land, y, y, n, y.
+type(horse,animal).				path: animal, alive, land, y, y, y.  
+type(snake, animal).				path: animal, alive, land, n, n.
+type(ant,animal).				path: animal, alive, land, n, y, n.
+type(eagle,animal).				path: animal, alive, land, n, y, y, y.
+type(chicken,animal).				path: animal, alive, land, n, y, y, n.
+type(starfish,animal).				path: animal, alive, water, n, y.
+type(shark,animal).				path: animal, alive, water, n, n, y.
+type(fish, animal).				path: animal, alive, water, n, n, n.
+type(whale, animal).				path: animal, alive, water, y.
+
+type(carrot,plant).				path: plant, alive, land, y, y.
+type(rose,plant).				path: plant, alive, land, y, n.
+type(orange,plant).				path: plant, alive, land, n, y.
+type(soapberry, plant).				path: plant, alive, land, n, n.
+type(seaweed,plant).				path: plant, alive, water, n.
+type(coral,plant).				path: plant, alive, water, y.
+type(plant_fossil,plant).			path: plant, dead, land.
+type(aquatic_plant_fossil,plant).		path: plant, dead, water.
+
+type(boat,object).				path: object, machine, water, n.
+type(submarine,object).				path: object, machine, water, y.
+type(computer,object).				path: object, machine, land, n
+type(car,object).				path: object, machine, land, y
+type(cup,object).				path: object, nonmachine, land, pointed edge? n
+type(pencil,object).				path: object, nonmachine, land, pointed edge? y
+type(rubber_duck,object).			path: object, nonmachine, water
+
+
+
+
+
+
+
+
+
+
+
+
+
+
